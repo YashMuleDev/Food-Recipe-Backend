@@ -1,2 +1,1 @@
-# Food-Recipe-Backend
-Backend of Website
+# Recipies-BE
